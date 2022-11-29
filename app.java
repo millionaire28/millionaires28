@@ -3,3 +3,4 @@
 # make use of variables and dynamic variables
 # author: simon Leo
 # This is a front end application
+# Bugs removed
