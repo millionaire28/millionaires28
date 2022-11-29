@@ -1,1 +1,3 @@
-# this is a deployment script
+this is a deployment script
+deploy java application
+deploy python apps
